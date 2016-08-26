@@ -1,1 +1,1 @@
-keys = { "slack": "naresh.majji" }
+keys = { "slack": "aviso" }
